@@ -148,9 +148,12 @@ footer .social_media{
     display: flex;
 }
 
-footer .social_media p{
-    display: flex;
-    margin: 0 1em;
+footer .social_media a{
+    margin: 0 0.25em;
+}
+
+.fa-brands{
+    font-size: x-large;
 }
 
 footer a{
